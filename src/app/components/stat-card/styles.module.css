@@ -1,0 +1,19 @@
+.gradient {
+  background-size: cover;
+}
+
+.gradient:nth-child(4n + 1) {
+  background-image: url('/images/mesh-gradient-1.svg');
+}
+
+.gradient:nth-child(4n + 2) {
+  background-image: url('/images/mesh-gradient-2.svg');
+}
+
+.gradient:nth-child(4n + 3) {
+  background-image: url('/images/mesh-gradient-3.svg');
+}
+
+.gradient:nth-child(4n + 4) {
+  background-image: url('/images/mesh-gradient-4.svg');
+}
